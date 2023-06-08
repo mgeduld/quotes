@@ -16,7 +16,7 @@ const getPageIndex = (pathname: string) => {
 const App = () => {
   const location = useLocation();
   const pageIndex = getPageIndex(location.pathname);
-  const { yaml, markdown, index } = useGetQuote(pageIndex ? parseInt(pageIndex) : undefined)
+  const { yaml, markdown, index } = useGetQuote(pageIndex ? pageIndex : undefined)
 
   if (!yaml || !markdown) {
     return <div>Loading...</div>
