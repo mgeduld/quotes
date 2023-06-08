@@ -1,0 +1,2452 @@
+{
+  "acting": [
+    {
+      "index": 1,
+      "author": "Frank Hauser & Russell Ruch"
+    },
+    {
+      "index": 17,
+      "author": "Jack Nicholson"
+    },
+    {
+      "index": 19,
+      "author": "John Barton"
+    },
+    {
+      "index": 36,
+      "author": "Keith Johnstone"
+    },
+    {
+      "index": 41,
+      "author": "Mike Alfreds"
+    },
+    {
+      "index": 43,
+      "author": "Shirley Booth"
+    },
+    {
+      "index": 44,
+      "author": "William Esper and Marcus Geduld"
+    },
+    {
+      "index": 76,
+      "author": "William Esper"
+    },
+    {
+      "index": 90,
+      "author": "Orson Welles"
+    }
+  ],
+  "directing": [
+    {
+      "index": 1,
+      "author": "Frank Hauser & Russell Ruch"
+    }
+  ],
+  "emotion": [
+    {
+      "index": 1,
+      "author": "Frank Hauser & Russell Ruch"
+    },
+    {
+      "index": 15,
+      "author": "Lisa Feldman"
+    },
+    {
+      "index": 46,
+      "author": "John Barton"
+    },
+    {
+      "index": 89,
+      "author": "Robertson Davies"
+    },
+    {
+      "index": 97,
+      "author": "Raymond Chandler"
+    }
+  ],
+  "theatre": [
+    {
+      "index": 1,
+      "author": "Frank Hauser & Russell Ruch"
+    },
+    {
+      "index": 36,
+      "author": "Keith Johnstone"
+    },
+    {
+      "index": 41,
+      "author": "Mike Alfreds"
+    },
+    {
+      "index": 51,
+      "author": "Peter Brook"
+    }
+  ],
+  "pain": [
+    {
+      "index": 1,
+      "author": "Frank Hauser & Russell Ruch"
+    },
+    {
+      "index": 18,
+      "author": "James Baldwin"
+    },
+    {
+      "index": 81,
+      "author": "Charles Bukowski"
+    }
+  ],
+  "anger": [
+    {
+      "index": 1,
+      "author": "Frank Hauser & Russell Ruch"
+    }
+  ],
+  "morality": [
+    {
+      "index": 2,
+      "author": "Arthur Brooks"
+    },
+    {
+      "index": 50,
+      "author": "Stanley Kubrick"
+    },
+    {
+      "index": 90,
+      "author": "Orson Welles"
+    },
+    {
+      "index": 100,
+      "author": "Jonathan Franzen"
+    }
+  ],
+  "courage": [
+    {
+      "index": 2,
+      "author": "Arthur Brooks"
+    }
+  ],
+  "ethics": [
+    {
+      "index": 2,
+      "author": "Arthur Brooks"
+    }
+  ],
+  "science": [
+    {
+      "index": 3,
+      "author": "Donald Woods Winnicott"
+    },
+    {
+      "index": 8,
+      "author": "Charles Darwin"
+    }
+  ],
+  "knowledge": [
+    {
+      "index": 3,
+      "author": "Donald Woods Winnicott"
+    },
+    {
+      "index": 23,
+      "author": "glenngillen"
+    },
+    {
+      "index": 42,
+      "author": "Daniel H. Cohen"
+    }
+  ],
+  "life": [
+    {
+      "index": 3,
+      "author": "Donald Woods Winnicott"
+    }
+  ],
+  "god": [
+    {
+      "index": 4,
+      "author": "Charles Simac"
+    },
+    {
+      "index": 12,
+      "author": "Lisa Blankenship"
+    },
+    {
+      "index": 88,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "prayer": [
+    {
+      "index": 4,
+      "author": "Charles Simac"
+    }
+  ],
+  "chance": [
+    {
+      "index": 4,
+      "author": "Charles Simac"
+    }
+  ],
+  "depression": [
+    {
+      "index": 4,
+      "author": "Charles Simac"
+    }
+  ],
+  "identity": [
+    {
+      "index": 4,
+      "author": "Charles Simac"
+    },
+    {
+      "index": 16,
+      "author": "Czeslaw Milosz"
+    },
+    {
+      "index": 20,
+      "author": "Carl Jung"
+    },
+    {
+      "index": 25,
+      "author": "Ages de Mille"
+    },
+    {
+      "index": 55,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 59,
+      "author": "Sam Harris"
+    }
+  ],
+  "reform": [
+    {
+      "index": 5,
+      "author": "G.K. Chesterton"
+    }
+  ],
+  "politics": [
+    {
+      "index": 5,
+      "author": "G.K. Chesterton"
+    },
+    {
+      "index": 9,
+      "author": "David French"
+    },
+    {
+      "index": 69,
+      "author": "lesswrong.com"
+    }
+  ],
+  "change": [
+    {
+      "index": 5,
+      "author": "G.K. Chesterton"
+    }
+  ],
+  "world-building": [
+    {
+      "index": 6,
+      "author": "Chris Beckett"
+    }
+  ],
+  "fiction": [
+    {
+      "index": 6,
+      "author": "Chris Beckett"
+    },
+    {
+      "index": 27,
+      "author": "Paul Bloom & Sam Harris"
+    },
+    {
+      "index": 30,
+      "author": "Victor Lavalle"
+    },
+    {
+      "index": 45,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 74,
+      "author": "Karl Ove Knausgaard"
+    },
+    {
+      "index": 81,
+      "author": "Charles Bukowski"
+    },
+    {
+      "index": 100,
+      "author": "Jonathan Franzen"
+    }
+  ],
+  "religion": [
+    {
+      "index": 6,
+      "author": "Chris Beckett"
+    }
+  ],
+  "writing": [
+    {
+      "index": 6,
+      "author": "Chris Beckett"
+    },
+    {
+      "index": 11,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 16,
+      "author": "Czeslaw Milosz"
+    },
+    {
+      "index": 20,
+      "author": "Carl Jung"
+    },
+    {
+      "index": 24,
+      "author": "Louis CK"
+    },
+    {
+      "index": 29,
+      "author": "George Saunders"
+    },
+    {
+      "index": 30,
+      "author": "Victor Lavalle"
+    },
+    {
+      "index": 34,
+      "author": "F. Scott Fitzgerald"
+    },
+    {
+      "index": 37,
+      "author": "Harold Pinter"
+    },
+    {
+      "index": 39,
+      "author": "Stanley Kubrick"
+    },
+    {
+      "index": 45,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 47,
+      "author": "Karl Ove Knausgaard"
+    },
+    {
+      "index": 48,
+      "author": "Jerry Seinfeld"
+    },
+    {
+      "index": 49,
+      "author": "William Eggleston"
+    },
+    {
+      "index": 52,
+      "author": "milarepa"
+    },
+    {
+      "index": 53,
+      "author": "David Hare"
+    },
+    {
+      "index": 54,
+      "author": "George Saunders"
+    },
+    {
+      "index": 58,
+      "author": "Philip Roth"
+    },
+    {
+      "index": 60,
+      "author": "David Foster Wallace"
+    },
+    {
+      "index": 61,
+      "author": "Robert McKee"
+    },
+    {
+      "index": 62,
+      "author": "Elmore Leonard"
+    },
+    {
+      "index": 64,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 65,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 66,
+      "author": "James Gunn"
+    },
+    {
+      "index": 67,
+      "author": "Anton Chekhov"
+    },
+    {
+      "index": 70,
+      "author": "Goethe"
+    },
+    {
+      "index": 70,
+      "author": "Goethe"
+    },
+    {
+      "index": 72,
+      "author": "Aaron Sorkin"
+    },
+    {
+      "index": 75,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 77,
+      "author": "noisewar"
+    },
+    {
+      "index": 79,
+      "author": "Mark Doty"
+    },
+    {
+      "index": 81,
+      "author": "Charles Bukowski"
+    },
+    {
+      "index": 85,
+      "author": "Stanley Kubrick"
+    },
+    {
+      "index": 87,
+      "author": "Mark Twain"
+    },
+    {
+      "index": 96,
+      "author": "Guindon"
+    },
+    {
+      "index": 97,
+      "author": "Raymond Chandler"
+    },
+    {
+      "index": 100,
+      "author": "Jonathan Franzen"
+    },
+    {
+      "index": 104,
+      "author": "David Milch"
+    },
+    {
+      "index": 105,
+      "author": "Pixar"
+    },
+    {
+      "index": 106,
+      "author": "Anton Chekhov"
+    }
+  ],
+  "writers": [
+    {
+      "index": 6,
+      "author": "Chris Beckett"
+    },
+    {
+      "index": 75,
+      "author": "Russell Edson"
+    }
+  ],
+  "philosophy": [
+    {
+      "index": 7,
+      "author": "Daniel Dennett"
+    },
+    {
+      "index": 15,
+      "author": "Lisa Feldman"
+    },
+    {
+      "index": 32,
+      "author": "Scott Hershovistz"
+    },
+    {
+      "index": 92,
+      "author": "Robert Pirsig"
+    },
+    {
+      "index": 99,
+      "author": "Ludwig Wittgenstein"
+    }
+  ],
+  "reading": [
+    {
+      "index": 7,
+      "author": "Daniel Dennett"
+    },
+    {
+      "index": 23,
+      "author": "glenngillen"
+    },
+    {
+      "index": 68,
+      "author": "China Mieville"
+    }
+  ],
+  "essay": [
+    {
+      "index": 7,
+      "author": "Daniel Dennett"
+    }
+  ],
+  "hack": [
+    {
+      "index": 7,
+      "author": "Daniel Dennett"
+    }
+  ],
+  "argument": [
+    {
+      "index": 7,
+      "author": "Daniel Dennett"
+    },
+    {
+      "index": 38,
+      "author": ""
+    },
+    {
+      "index": 42,
+      "author": "Daniel H. Cohen"
+    }
+  ],
+  "logic": [
+    {
+      "index": 7,
+      "author": "Daniel Dennett"
+    },
+    {
+      "index": 69,
+      "author": "lesswrong.com"
+    },
+    {
+      "index": 92,
+      "author": "Robert Pirsig"
+    }
+  ],
+  "writer": [
+    {
+      "index": 7,
+      "author": "Daniel Dennett"
+    },
+    {
+      "index": 35,
+      "author": "Thomas Mann"
+    },
+    {
+      "index": 67,
+      "author": "Anton Chekhov"
+    },
+    {
+      "index": 100,
+      "author": "Jonathan Franzen"
+    }
+  ],
+  "rationality": [
+    {
+      "index": 7,
+      "author": "Daniel Dennett"
+    },
+    {
+      "index": 69,
+      "author": "lesswrong.com"
+    },
+    {
+      "index": 92,
+      "author": "Robert Pirsig"
+    }
+  ],
+  "occupation": [
+    {
+      "index": 8,
+      "author": "Charles Darwin"
+    }
+  ],
+  "passion": [
+    {
+      "index": 8,
+      "author": "Charles Darwin"
+    },
+    {
+      "index": 68,
+      "author": "China Mieville"
+    }
+  ],
+  "canceling": [
+    {
+      "index": 9,
+      "author": "David French"
+    }
+  ],
+  "extremism": [
+    {
+      "index": 9,
+      "author": "David French"
+    }
+  ],
+  "solidarity": [
+    {
+      "index": 9,
+      "author": "David French"
+    }
+  ],
+  "authoritarianism": [
+    {
+      "index": 9,
+      "author": "David French"
+    }
+  ],
+  "drawing": [
+    {
+      "index": 10,
+      "author": "Commerial artist Commieneko"
+    },
+    {
+      "index": 26,
+      "author": "Pablo Picasso"
+    }
+  ],
+  "artist": [
+    {
+      "index": 10,
+      "author": "Commerial artist Commieneko"
+    },
+    {
+      "index": 20,
+      "author": "Carl Jung"
+    },
+    {
+      "index": 22,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 25,
+      "author": "Ages de Mille"
+    },
+    {
+      "index": 26,
+      "author": "Pablo Picasso"
+    },
+    {
+      "index": 29,
+      "author": "George Saunders"
+    },
+    {
+      "index": 73,
+      "author": "Tennessee Williams"
+    }
+  ],
+  "art": [
+    {
+      "index": 10,
+      "author": "Commerial artist Commieneko"
+    },
+    {
+      "index": 11,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 13,
+      "author": "Guillermo del Toro"
+    },
+    {
+      "index": 16,
+      "author": "Czeslaw Milosz"
+    },
+    {
+      "index": 20,
+      "author": "Carl Jung"
+    },
+    {
+      "index": 21,
+      "author": "Karl Ove Knausgård"
+    },
+    {
+      "index": 22,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 25,
+      "author": "Ages de Mille"
+    },
+    {
+      "index": 26,
+      "author": "Pablo Picasso"
+    },
+    {
+      "index": 29,
+      "author": "George Saunders"
+    },
+    {
+      "index": 33,
+      "author": "James Baldwin"
+    },
+    {
+      "index": 41,
+      "author": "Mike Alfreds"
+    },
+    {
+      "index": 50,
+      "author": "Stanley Kubrick"
+    },
+    {
+      "index": 53,
+      "author": "David Hare"
+    },
+    {
+      "index": 71,
+      "author": "C.S. Lewis"
+    },
+    {
+      "index": 73,
+      "author": "Tennessee Williams"
+    },
+    {
+      "index": 89,
+      "author": "Robertson Davies"
+    }
+  ],
+  "seeing": [
+    {
+      "index": 10,
+      "author": "Commerial artist Commieneko"
+    },
+    {
+      "index": 17,
+      "author": "Jack Nicholson"
+    }
+  ],
+  "poetry": [
+    {
+      "index": 11,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 16,
+      "author": "Czeslaw Milosz"
+    },
+    {
+      "index": 28,
+      "author": "David Orr"
+    },
+    {
+      "index": 45,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 57,
+      "author": "Tu Fu (712-770) and translator Carolyn Kizer"
+    },
+    {
+      "index": 64,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 65,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 70,
+      "author": "Goethe"
+    },
+    {
+      "index": 98,
+      "author": "Margaret Atwood"
+    }
+  ],
+  "food": [
+    {
+      "index": 12,
+      "author": "Lisa Blankenship"
+    }
+  ],
+  "sin": [
+    {
+      "index": 12,
+      "author": "Lisa Blankenship"
+    }
+  ],
+  "film": [
+    {
+      "index": 13,
+      "author": "Guillermo del Toro"
+    },
+    {
+      "index": 39,
+      "author": "Stanley Kubrick"
+    },
+    {
+      "index": 40,
+      "author": "Rouben Mamoulian"
+    },
+    {
+      "index": 80,
+      "author": "Simon Pegg"
+    },
+    {
+      "index": 86,
+      "author": "Alfred Hitchcock"
+    }
+  ],
+  "movie": [
+    {
+      "index": 13,
+      "author": "Guillermo del Toro"
+    },
+    {
+      "index": 80,
+      "author": "Simon Pegg"
+    },
+    {
+      "index": 86,
+      "author": "Alfred Hitchcock"
+    }
+  ],
+  "cliché": [
+    {
+      "index": 13,
+      "author": "Guillermo del Toro"
+    }
+  ],
+  "noir": [
+    {
+      "index": 13,
+      "author": "Guillermo del Toro"
+    }
+  ],
+  "disillusionment": [
+    {
+      "index": 13,
+      "author": "Guillermo del Toro"
+    }
+  ],
+  "existentialism": [
+    {
+      "index": 13,
+      "author": "Guillermo del Toro"
+    },
+    {
+      "index": 88,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "america": [
+    {
+      "index": 13,
+      "author": "Guillermo del Toro"
+    }
+  ],
+  "child": [
+    {
+      "index": 14,
+      "author": "Linda Cundy"
+    }
+  ],
+  "abuse": [
+    {
+      "index": 14,
+      "author": "Linda Cundy"
+    }
+  ],
+  "neglect": [
+    {
+      "index": 14,
+      "author": "Linda Cundy"
+    }
+  ],
+  "love": [
+    {
+      "index": 14,
+      "author": "Linda Cundy"
+    }
+  ],
+  "parent": [
+    {
+      "index": 14,
+      "author": "Linda Cundy"
+    }
+  ],
+  "affect": [
+    {
+      "index": 15,
+      "author": "Lisa Feldman"
+    }
+  ],
+  "feeling": [
+    {
+      "index": 15,
+      "author": "Lisa Feldman"
+    }
+  ],
+  "thinking": [
+    {
+      "index": 15,
+      "author": "Lisa Feldman"
+    },
+    {
+      "index": 32,
+      "author": "Scott Hershovistz"
+    },
+    {
+      "index": 36,
+      "author": "Keith Johnstone"
+    },
+    {
+      "index": 38,
+      "author": ""
+    },
+    {
+      "index": 96,
+      "author": "Guindon"
+    }
+  ],
+  "psychology": [
+    {
+      "index": 15,
+      "author": "Lisa Feldman"
+    },
+    {
+      "index": 18,
+      "author": "James Baldwin"
+    },
+    {
+      "index": 20,
+      "author": "Carl Jung"
+    },
+    {
+      "index": 23,
+      "author": "glenngillen"
+    },
+    {
+      "index": 24,
+      "author": "Louis CK"
+    },
+    {
+      "index": 25,
+      "author": "Ages de Mille"
+    }
+  ],
+  "attention": [
+    {
+      "index": 17,
+      "author": "Jack Nicholson"
+    }
+  ],
+  "hate": [
+    {
+      "index": 18,
+      "author": "James Baldwin"
+    }
+  ],
+  "shakespeare": [
+    {
+      "index": 19,
+      "author": "John Barton"
+    },
+    {
+      "index": 46,
+      "author": "John Barton"
+    },
+    {
+      "index": 51,
+      "author": "Peter Brook"
+    }
+  ],
+  "contradiction": [
+    {
+      "index": 19,
+      "author": "John Barton"
+    }
+  ],
+  "creativity": [
+    {
+      "index": 20,
+      "author": "Carl Jung"
+    },
+    {
+      "index": 24,
+      "author": "Louis CK"
+    },
+    {
+      "index": 25,
+      "author": "Ages de Mille"
+    },
+    {
+      "index": 26,
+      "author": "Pablo Picasso"
+    },
+    {
+      "index": 29,
+      "author": "George Saunders"
+    }
+  ],
+  "self": [
+    {
+      "index": 20,
+      "author": "Carl Jung"
+    },
+    {
+      "index": 24,
+      "author": "Louis CK"
+    },
+    {
+      "index": 25,
+      "author": "Ages de Mille"
+    },
+    {
+      "index": 37,
+      "author": "Harold Pinter"
+    },
+    {
+      "index": 55,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 59,
+      "author": "Sam Harris"
+    },
+    {
+      "index": 90,
+      "author": "Orson Welles"
+    }
+  ],
+  "progress": [
+    {
+      "index": 21,
+      "author": "Karl Ove Knausgård"
+    }
+  ],
+  "feelings": [
+    {
+      "index": 21,
+      "author": "Karl Ove Knausgård"
+    }
+  ],
+  "learning": [
+    {
+      "index": 23,
+      "author": "glenngillen"
+    },
+    {
+      "index": 42,
+      "author": "Daniel H. Cohen"
+    }
+  ],
+  "understanding": [
+    {
+      "index": 23,
+      "author": "glenngillen"
+    }
+  ],
+  "comedy": [
+    {
+      "index": 24,
+      "author": "Louis CK"
+    },
+    {
+      "index": 31,
+      "author": "Sid Caesar"
+    },
+    {
+      "index": 82,
+      "author": "Ricky Gervais"
+    }
+  ],
+  "discipline": [
+    {
+      "index": 24,
+      "author": "Louis CK"
+    },
+    {
+      "index": 48,
+      "author": "Jerry Seinfeld"
+    },
+    {
+      "index": 49,
+      "author": "William Eggleston"
+    }
+  ],
+  "dance": [
+    {
+      "index": 25,
+      "author": "Ages de Mille"
+    }
+  ],
+  "choreography": [
+    {
+      "index": 25,
+      "author": "Ages de Mille"
+    }
+  ],
+  "satisfaction": [
+    {
+      "index": 25,
+      "author": "Ages de Mille"
+    }
+  ],
+  "process": [
+    {
+      "index": 26,
+      "author": "Pablo Picasso"
+    },
+    {
+      "index": 29,
+      "author": "George Saunders"
+    },
+    {
+      "index": 93,
+      "author": "Kaiser Kuo"
+    }
+  ],
+  "paychology": [
+    {
+      "index": 27,
+      "author": "Paul Bloom & Sam Harris"
+    }
+  ],
+  "arguments": [
+    {
+      "index": 28,
+      "author": "David Orr"
+    }
+  ],
+  "tedium": [
+    {
+      "index": 28,
+      "author": "David Orr"
+    }
+  ],
+  "storytelling": [
+    {
+      "index": 29,
+      "author": "George Saunders"
+    },
+    {
+      "index": 34,
+      "author": "F. Scott Fitzgerald"
+    },
+    {
+      "index": 37,
+      "author": "Harold Pinter"
+    },
+    {
+      "index": 39,
+      "author": "Stanley Kubrick"
+    },
+    {
+      "index": 40,
+      "author": "Rouben Mamoulian"
+    },
+    {
+      "index": 63,
+      "author": "David Mamet"
+    },
+    {
+      "index": 72,
+      "author": "Aaron Sorkin"
+    },
+    {
+      "index": 85,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "honesty": [
+    {
+      "index": 29,
+      "author": "George Saunders"
+    },
+    {
+      "index": 30,
+      "author": "Victor Lavalle"
+    },
+    {
+      "index": 37,
+      "author": "Harold Pinter"
+    },
+    {
+      "index": 50,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "horry": [
+    {
+      "index": 30,
+      "author": "Victor Lavalle"
+    }
+  ],
+  "truth": [
+    {
+      "index": 30,
+      "author": "Victor Lavalle"
+    },
+    {
+      "index": 31,
+      "author": "Sid Caesar"
+    },
+    {
+      "index": 50,
+      "author": "Stanley Kubrick"
+    },
+    {
+      "index": 71,
+      "author": "C.S. Lewis"
+    },
+    {
+      "index": 73,
+      "author": "Tennessee Williams"
+    },
+    {
+      "index": 89,
+      "author": "Robertson Davies"
+    },
+    {
+      "index": 90,
+      "author": "Orson Welles"
+    },
+    {
+      "index": 92,
+      "author": "Robert Pirsig"
+    }
+  ],
+  "law": [
+    {
+      "index": 32,
+      "author": "Scott Hershovistz"
+    }
+  ],
+  "wonder": [
+    {
+      "index": 32,
+      "author": "Scott Hershovistz"
+    }
+  ],
+  "ignorance": [
+    {
+      "index": 32,
+      "author": "Scott Hershovistz"
+    },
+    {
+      "index": 36,
+      "author": "Keith Johnstone"
+    },
+    {
+      "index": 92,
+      "author": "Robert Pirsig"
+    }
+  ],
+  "safety": [
+    {
+      "index": 33,
+      "author": "James Baldwin"
+    }
+  ],
+  "illusion": [
+    {
+      "index": 33,
+      "author": "James Baldwin"
+    }
+  ],
+  "character": [
+    {
+      "index": 34,
+      "author": "F. Scott Fitzgerald"
+    },
+    {
+      "index": 61,
+      "author": "Robert McKee"
+    },
+    {
+      "index": 72,
+      "author": "Aaron Sorkin"
+    },
+    {
+      "index": 77,
+      "author": "noisewar"
+    }
+  ],
+  "wrting": [
+    {
+      "index": 35,
+      "author": "Thomas Mann"
+    }
+  ],
+  "difficulty": [
+    {
+      "index": 35,
+      "author": "Thomas Mann"
+    }
+  ],
+  "improv": [
+    {
+      "index": 36,
+      "author": "Keith Johnstone"
+    }
+  ],
+  "acceptance": [
+    {
+      "index": 37,
+      "author": "Harold Pinter"
+    }
+  ],
+  "style": [
+    {
+      "index": 37,
+      "author": "Harold Pinter"
+    },
+    {
+      "index": 39,
+      "author": "Stanley Kubrick"
+    },
+    {
+      "index": 52,
+      "author": "milarepa"
+    },
+    {
+      "index": 62,
+      "author": "Elmore Leonard"
+    },
+    {
+      "index": 86,
+      "author": "Alfred Hitchcock"
+    },
+    {
+      "index": 87,
+      "author": "Mark Twain"
+    }
+  ],
+  "vulnerability": [
+    {
+      "index": 37,
+      "author": "Harold Pinter"
+    }
+  ],
+  "rationalization": [
+    {
+      "index": 38,
+      "author": ""
+    }
+  ],
+  "fallacy": [
+    {
+      "index": 38,
+      "author": ""
+    }
+  ],
+  "adaptation": [
+    {
+      "index": 39,
+      "author": "Stanley Kubrick"
+    },
+    {
+      "index": 39,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "filmmaking": [
+    {
+      "index": 39,
+      "author": "Stanley Kubrick"
+    },
+    {
+      "index": 40,
+      "author": "Rouben Mamoulian"
+    },
+    {
+      "index": 86,
+      "author": "Alfred Hitchcock"
+    }
+  ],
+  "screenwriting": [
+    {
+      "index": 40,
+      "author": "Rouben Mamoulian"
+    }
+  ],
+  "minimalism": [
+    {
+      "index": 41,
+      "author": "Mike Alfreds"
+    }
+  ],
+  "performance": [
+    {
+      "index": 41,
+      "author": "Mike Alfreds"
+    }
+  ],
+  "debate": [
+    {
+      "index": 42,
+      "author": "Daniel H. Cohen"
+    }
+  ],
+  "actors": [
+    {
+      "index": 43,
+      "author": "Shirley Booth"
+    },
+    {
+      "index": 44,
+      "author": "William Esper and Marcus Geduld"
+    },
+    {
+      "index": 76,
+      "author": "William Esper"
+    }
+  ],
+  "action": [
+    {
+      "index": 44,
+      "author": "William Esper and Marcus Geduld"
+    },
+    {
+      "index": 97,
+      "author": "Raymond Chandler"
+    }
+  ],
+  "activity": [
+    {
+      "index": 44,
+      "author": "William Esper and Marcus Geduld"
+    }
+  ],
+  "consciousness": [
+    {
+      "index": 44,
+      "author": "William Esper and Marcus Geduld"
+    },
+    {
+      "index": 75,
+      "author": "Russell Edson"
+    }
+  ],
+  "unconscious": [
+    {
+      "index": 44,
+      "author": "William Esper and Marcus Geduld"
+    }
+  ],
+  "control": [
+    {
+      "index": 44,
+      "author": "William Esper and Marcus Geduld"
+    },
+    {
+      "index": 76,
+      "author": "William Esper"
+    }
+  ],
+  "memorization": [
+    {
+      "index": 44,
+      "author": "William Esper and Marcus Geduld"
+    }
+  ],
+  "lines": [
+    {
+      "index": 44,
+      "author": "William Esper and Marcus Geduld"
+    }
+  ],
+  "prose": [
+    {
+      "index": 45,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 62,
+      "author": "Elmore Leonard"
+    }
+  ],
+  "verse": [
+    {
+      "index": 45,
+      "author": "Russell Edson"
+    }
+  ],
+  "prose-poem": [
+    {
+      "index": 45,
+      "author": "Russell Edson"
+    }
+  ],
+  "language": [
+    {
+      "index": 45,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 47,
+      "author": "Karl Ove Knausgaard"
+    },
+    {
+      "index": 99,
+      "author": "Ludwig Wittgenstein"
+    }
+  ],
+  "academica": [
+    {
+      "index": 47,
+      "author": "Karl Ove Knausgaard"
+    }
+  ],
+  "rhetoric": [
+    {
+      "index": 47,
+      "author": "Karl Ove Knausgaard"
+    }
+  ],
+  "orginality": [
+    {
+      "index": 47,
+      "author": "Karl Ove Knausgaard"
+    },
+    {
+      "index": 54,
+      "author": "George Saunders"
+    },
+    {
+      "index": 71,
+      "author": "C.S. Lewis"
+    }
+  ],
+  "technique": [
+    {
+      "index": 48,
+      "author": "Jerry Seinfeld"
+    },
+    {
+      "index": 49,
+      "author": "William Eggleston"
+    }
+  ],
+  "questions": [
+    {
+      "index": 50,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "dishonesty": [
+    {
+      "index": 50,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "tempo": [
+    {
+      "index": 51,
+      "author": "Peter Brook"
+    }
+  ],
+  "rhythm": [
+    {
+      "index": 51,
+      "author": "Peter Brook"
+    }
+  ],
+  "opera": [
+    {
+      "index": 51,
+      "author": "Peter Brook"
+    }
+  ],
+  "flaws": [
+    {
+      "index": 52,
+      "author": "milarepa"
+    }
+  ],
+  "kafka": [
+    {
+      "index": 52,
+      "author": "milarepa"
+    }
+  ],
+  "beckett": [
+    {
+      "index": 52,
+      "author": "milarepa"
+    }
+  ],
+  "joyce": [
+    {
+      "index": 52,
+      "author": "milarepa"
+    }
+  ],
+  "ego": [
+    {
+      "index": 53,
+      "author": "David Hare"
+    },
+    {
+      "index": 59,
+      "author": "Sam Harris"
+    },
+    {
+      "index": 104,
+      "author": "David Milch"
+    }
+  ],
+  "voice": [
+    {
+      "index": 54,
+      "author": "George Saunders"
+    }
+  ],
+  "humor": [
+    {
+      "index": 54,
+      "author": "George Saunders"
+    },
+    {
+      "index": 82,
+      "author": "Ricky Gervais"
+    }
+  ],
+  "rules": [
+    {
+      "index": 54,
+      "author": "George Saunders"
+    }
+  ],
+  "obedience": [
+    {
+      "index": 54,
+      "author": "George Saunders"
+    },
+    {
+      "index": 91,
+      "author": "Paul Graham"
+    }
+  ],
+  "personality": [
+    {
+      "index": 54,
+      "author": "George Saunders"
+    }
+  ],
+  "word": [
+    {
+      "index": 55,
+      "author": "Russell Edson"
+    }
+  ],
+  "reality": [
+    {
+      "index": 55,
+      "author": "Russell Edson"
+    }
+  ],
+  "strangness": [
+    {
+      "index": 55,
+      "author": "Russell Edson"
+    }
+  ],
+  "jung": [
+    {
+      "index": 56,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "duality": [
+    {
+      "index": 56,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "good": [
+    {
+      "index": 56,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "evil": [
+    {
+      "index": 56,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "altruism": [
+    {
+      "index": 56,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "aggression": [
+    {
+      "index": 56,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "heat": [
+    {
+      "index": 57,
+      "author": "Tu Fu (712-770) and translator Carolyn Kizer"
+    }
+  ],
+  "work": [
+    {
+      "index": 57,
+      "author": "Tu Fu (712-770) and translator Carolyn Kizer"
+    }
+  ],
+  "poem": [
+    {
+      "index": 57,
+      "author": "Tu Fu (712-770) and translator Carolyn Kizer"
+    },
+    {
+      "index": 98,
+      "author": "Margaret Atwood"
+    }
+  ],
+  "fluency": [
+    {
+      "index": 58,
+      "author": "Philip Roth"
+    }
+  ],
+  "resistance": [
+    {
+      "index": 58,
+      "author": "Philip Roth"
+    }
+  ],
+  "technqiue": [
+    {
+      "index": 58,
+      "author": "Philip Roth"
+    }
+  ],
+  "meditation": [
+    {
+      "index": 59,
+      "author": "Sam Harris"
+    }
+  ],
+  "rebel": [
+    {
+      "index": 60,
+      "author": "David Foster Wallace"
+    }
+  ],
+  "irony": [
+    {
+      "index": 60,
+      "author": "David Foster Wallace"
+    }
+  ],
+  "sincerity": [
+    {
+      "index": 60,
+      "author": "David Foster Wallace"
+    },
+    {
+      "index": 94,
+      "author": "Robin Hanson"
+    }
+  ],
+  "postmodernism": [
+    {
+      "index": 60,
+      "author": "David Foster Wallace"
+    }
+  ],
+  "didacticism": [
+    {
+      "index": 61,
+      "author": "Robert McKee"
+    }
+  ],
+  "editing": [
+    {
+      "index": 62,
+      "author": "Elmore Leonard"
+    },
+    {
+      "index": 87,
+      "author": "Mark Twain"
+    },
+    {
+      "index": 97,
+      "author": "Raymond Chandler"
+    }
+  ],
+  "story": [
+    {
+      "index": 63,
+      "author": "David Mamet"
+    },
+    {
+      "index": 72,
+      "author": "Aaron Sorkin"
+    }
+  ],
+  "audience": [
+    {
+      "index": 63,
+      "author": "David Mamet"
+    },
+    {
+      "index": 72,
+      "author": "Aaron Sorkin"
+    },
+    {
+      "index": 76,
+      "author": "William Esper"
+    }
+  ],
+  "mislead": [
+    {
+      "index": 63,
+      "author": "David Mamet"
+    }
+  ],
+  "surprise": [
+    {
+      "index": 64,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 65,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 83,
+      "author": "Aimee Bender"
+    }
+  ],
+  "experience": [
+    {
+      "index": 64,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 65,
+      "author": "Russell Edson"
+    }
+  ],
+  "entertainment": [
+    {
+      "index": 64,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 65,
+      "author": "Russell Edson"
+    }
+  ],
+  "poets": [
+    {
+      "index": 64,
+      "author": "Russell Edson"
+    },
+    {
+      "index": 65,
+      "author": "Russell Edson"
+    }
+  ],
+  "writers-block": [
+    {
+      "index": 66,
+      "author": "James Gunn"
+    },
+    {
+      "index": 105,
+      "author": "Pixar"
+    }
+  ],
+  "judgement": [
+    {
+      "index": 66,
+      "author": "James Gunn"
+    }
+  ],
+  "self-criticism": [
+    {
+      "index": 66,
+      "author": "James Gunn"
+    }
+  ],
+  "problem": [
+    {
+      "index": 67,
+      "author": "Anton Chekhov"
+    }
+  ],
+  "book": [
+    {
+      "index": 68,
+      "author": "China Mieville"
+    }
+  ],
+  "necessity": [
+    {
+      "index": 68,
+      "author": "China Mieville"
+    }
+  ],
+  "desire": [
+    {
+      "index": 68,
+      "author": "China Mieville"
+    },
+    {
+      "index": 100,
+      "author": "Jonathan Franzen"
+    }
+  ],
+  "drive": [
+    {
+      "index": 68,
+      "author": "China Mieville"
+    }
+  ],
+  "urgency": [
+    {
+      "index": 68,
+      "author": "China Mieville"
+    }
+  ],
+  "thought": [
+    {
+      "index": 69,
+      "author": "lesswrong.com"
+    },
+    {
+      "index": 89,
+      "author": "Robertson Davies"
+    },
+    {
+      "index": 96,
+      "author": "Guindon"
+    }
+  ],
+  "poet": [
+    {
+      "index": 70,
+      "author": "Goethe"
+    }
+  ],
+  "particular": [
+    {
+      "index": 70,
+      "author": "Goethe"
+    }
+  ],
+  "general": [
+    {
+      "index": 70,
+      "author": "Goethe"
+    }
+  ],
+  "allegory": [
+    {
+      "index": 70,
+      "author": "Goethe"
+    }
+  ],
+  "illustration": [
+    {
+      "index": 70,
+      "author": "Goethe"
+    }
+  ],
+  "literature": [
+    {
+      "index": 71,
+      "author": "C.S. Lewis"
+    }
+  ],
+  "intention": [
+    {
+      "index": 72,
+      "author": "Aaron Sorkin"
+    }
+  ],
+  "obstacle": [
+    {
+      "index": 72,
+      "author": "Aaron Sorkin"
+    }
+  ],
+  "tactic": [
+    {
+      "index": 72,
+      "author": "Aaron Sorkin"
+    }
+  ],
+  "picasso": [
+    {
+      "index": 73,
+      "author": "Tennessee Williams"
+    }
+  ],
+  "novel": [
+    {
+      "index": 74,
+      "author": "Karl Ove Knausgaard"
+    },
+    {
+      "index": 81,
+      "author": "Charles Bukowski"
+    },
+    {
+      "index": 100,
+      "author": "Jonathan Franzen"
+    }
+  ],
+  "author": [
+    {
+      "index": 74,
+      "author": "Karl Ove Knausgaard"
+    }
+  ],
+  "reader": [
+    {
+      "index": 74,
+      "author": "Karl Ove Knausgaard"
+    },
+    {
+      "index": 97,
+      "author": "Raymond Chandler"
+    },
+    {
+      "index": 100,
+      "author": "Jonathan Franzen"
+    }
+  ],
+  "dreams": [
+    {
+      "index": 75,
+      "author": "Russell Edson"
+    }
+  ],
+  "dreaming": [
+    {
+      "index": 75,
+      "author": "Russell Edson"
+    }
+  ],
+  "sanity": [
+    {
+      "index": 75,
+      "author": "Russell Edson"
+    }
+  ],
+  "insanity": [
+    {
+      "index": 75,
+      "author": "Russell Edson"
+    }
+  ],
+  "spontaneity": [
+    {
+      "index": 76,
+      "author": "William Esper"
+    }
+  ],
+  "dialogue": [
+    {
+      "index": 77,
+      "author": "noisewar"
+    },
+    {
+      "index": 97,
+      "author": "Raymond Chandler"
+    }
+  ],
+  "subtext": [
+    {
+      "index": 77,
+      "author": "noisewar"
+    },
+    {
+      "index": 85,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "play": [
+    {
+      "index": 78,
+      "author": "Gertude Stein"
+    }
+  ],
+  "detail": [
+    {
+      "index": 79,
+      "author": "Mark Doty"
+    }
+  ],
+  "description": [
+    {
+      "index": 79,
+      "author": "Mark Doty"
+    },
+    {
+      "index": 97,
+      "author": "Raymond Chandler"
+    }
+  ],
+  "meaning": [
+    {
+      "index": 79,
+      "author": "Mark Doty"
+    },
+    {
+      "index": 88,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "accuracy": [
+    {
+      "index": 79,
+      "author": "Mark Doty"
+    }
+  ],
+  "cinema": [
+    {
+      "index": 80,
+      "author": "Simon Pegg"
+    },
+    {
+      "index": 86,
+      "author": "Alfred Hitchcock"
+    }
+  ],
+  "3D": [
+    {
+      "index": 80,
+      "author": "Simon Pegg"
+    }
+  ],
+  "letter": [
+    {
+      "index": 82,
+      "author": "Ricky Gervais"
+    }
+  ],
+  "standup": [
+    {
+      "index": 82,
+      "author": "Ricky Gervais"
+    }
+  ],
+  "joke": [
+    {
+      "index": 82,
+      "author": "Ricky Gervais"
+    }
+  ],
+  "offense": [
+    {
+      "index": 82,
+      "author": "Ricky Gervais"
+    }
+  ],
+  "insight": [
+    {
+      "index": 83,
+      "author": "Aimee Bender"
+    }
+  ],
+  "shock": [
+    {
+      "index": 83,
+      "author": "Aimee Bender"
+    }
+  ],
+  "theory": [
+    {
+      "index": 84,
+      "author": "Paul Graham"
+    }
+  ],
+  "choice": [
+    {
+      "index": 84,
+      "author": "Paul Graham"
+    }
+  ],
+  "laziness": [
+    {
+      "index": 84,
+      "author": "Paul Graham"
+    },
+    {
+      "index": 102,
+      "author": "Penn Jillette"
+    }
+  ],
+  "drama": [
+    {
+      "index": 85,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "naturalism": [
+    {
+      "index": 86,
+      "author": "Alfred Hitchcock"
+    }
+  ],
+  "realism": [
+    {
+      "index": 86,
+      "author": "Alfred Hitchcock"
+    }
+  ],
+  "indifference": [
+    {
+      "index": 88,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "cosmos": [
+    {
+      "index": 88,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "universe": [
+    {
+      "index": 88,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "humanity": [
+    {
+      "index": 88,
+      "author": "Stanley Kubrick"
+    }
+  ],
+  "teaching": [
+    {
+      "index": 89,
+      "author": "Robertson Davies"
+    }
+  ],
+  "achievement": [
+    {
+      "index": 89,
+      "author": "Robertson Davies"
+    }
+  ],
+  "wrtiting": [
+    {
+      "index": 90,
+      "author": "Orson Welles"
+    }
+  ],
+  "indentity": [
+    {
+      "index": 90,
+      "author": "Orson Welles"
+    }
+  ],
+  "rebellion": [
+    {
+      "index": 91,
+      "author": "Paul Graham"
+    }
+  ],
+  "school": [
+    {
+      "index": 91,
+      "author": "Paul Graham"
+    }
+  ],
+  "education": [
+    {
+      "index": 91,
+      "author": "Paul Graham"
+    }
+  ],
+  "folly": [
+    {
+      "index": 92,
+      "author": "Robert Pirsig"
+    }
+  ],
+  "journalism": [
+    {
+      "index": 93,
+      "author": "Kaiser Kuo"
+    }
+  ],
+  "interview": [
+    {
+      "index": 93,
+      "author": "Kaiser Kuo"
+    }
+  ],
+  "research": [
+    {
+      "index": 93,
+      "author": "Kaiser Kuo"
+    }
+  ],
+  "professionalism": [
+    {
+      "index": 93,
+      "author": "Kaiser Kuo"
+    }
+  ],
+  "work-ethic": [
+    {
+      "index": 93,
+      "author": "Kaiser Kuo"
+    }
+  ],
+  "insincerity": [
+    {
+      "index": 94,
+      "author": "Robin Hanson"
+    }
+  ],
+  "whale": [
+    {
+      "index": 95,
+      "author": "Michael Robbins"
+    }
+  ],
+  "stilts": [
+    {
+      "index": 95,
+      "author": "Michael Robbins"
+    }
+  ],
+  "promise": [
+    {
+      "index": 95,
+      "author": "Michael Robbins"
+    }
+  ],
+  "sloppiness": [
+    {
+      "index": 96,
+      "author": "Guindon"
+    }
+  ],
+  "hook": [
+    {
+      "index": 98,
+      "author": "Margaret Atwood"
+    }
+  ],
+  "eye": [
+    {
+      "index": 98,
+      "author": "Margaret Atwood"
+    }
+  ],
+  "intelligence": [
+    {
+      "index": 99,
+      "author": "Ludwig Wittgenstein"
+    }
+  ],
+  "sympathy": [
+    {
+      "index": 100,
+      "author": "Jonathan Franzen"
+    }
+  ],
+  "programming": [
+    {
+      "index": 101,
+      "author": ""
+    },
+    {
+      "index": 103,
+      "author": "C.A.R. Hoare"
+    }
+  ],
+  "debugging": [
+    {
+      "index": 101,
+      "author": ""
+    }
+  ],
+  "bug": [
+    {
+      "index": 101,
+      "author": ""
+    }
+  ],
+  "impossible": [
+    {
+      "index": 101,
+      "author": ""
+    }
+  ],
+  "genius": [
+    {
+      "index": 102,
+      "author": "Penn Jillette"
+    }
+  ],
+  "justification": [
+    {
+      "index": 102,
+      "author": "Penn Jillette"
+    }
+  ],
+  "software": [
+    {
+      "index": 103,
+      "author": "C.A.R. Hoare"
+    }
+  ],
+  "design": [
+    {
+      "index": 103,
+      "author": "C.A.R. Hoare"
+    }
+  ],
+  "simplicity": [
+    {
+      "index": 103,
+      "author": "C.A.R. Hoare"
+    }
+  ],
+  "imagination": [
+    {
+      "index": 104,
+      "author": "David Milch"
+    }
+  ],
+  "plot": [
+    {
+      "index": 105,
+      "author": "Pixar"
+    }
+  ],
+  "cliche": [
+    {
+      "index": 106,
+      "author": "Anton Chekhov"
+    }
+  ],
+  "show-dont-tell": [
+    {
+      "index": 106,
+      "author": "Anton Chekhov"
+    }
+  ]
+}

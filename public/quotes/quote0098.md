@@ -1,0 +1,11 @@
+---
+author: Margaret Atwood
+tags: [hook, eye, poem, poetry]
+---
+you fit into me
+
+like a hook into an eye
+
+a fish hook
+
+an open eye

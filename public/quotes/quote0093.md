@@ -1,0 +1,7 @@
+---
+author: Kaiser Kuo
+tags: [journalism, process, interview, research, professionalism, work-ethic]
+---
+I was recently on the receiving end of a profile by This American Life, and I now thoroughly understand why their production values are so high. They must have recorded 100 hours or more for a segment in which I featured that lasted only 29 minutes (the recent 'Americans in China,' show 467, reported by the excellent Evan Osnos). They interviewed my siblings, my parents, my bandmates, my wife, and several friends; all interviews save one friend ended up on the cutting-room floor. They followed me around for days, commuting to work with me, joining me at band rehearsal, at the office, taped me giving a talk to a group of MBA students, and interviewed me in at least 10 separate locations. At every location, producer Nancy Updike would record a minute of ambient sound. They also spent admirable effort in gathering supporting materials: tapes of events from 13 years ago and more, concert recordings I thought long lost, home VHS tapes my parents had recorded back in the 80s. 
+
+As a friend of mine who was also interviewed for the same segment remarked, 'Being interviewed for that show and then listening to it was a real education in professional American journalism.' I couldn't agree with him more.

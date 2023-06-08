@@ -1,0 +1,5 @@
+---
+author: Guillermo del Toro
+tags: [film, movie, cliché, noir, art, disillusionment, existentialism, america]
+---
+Noir isn't about Venetian blinds and a husky voiceover and a dimly-lit street. It's not about a dame smoking under a spinning fan. Those are the clichés. Those are the Coca Cola commercials of noir. What I understand to be noir is the real grittiness that comes out of American realism - those films that channel the same spirit as George Bellows or Edward Hopper or Thomas Hart Benton. It's the poetry of disillusionment and existentialism. The tragedy that emerges between the haves and have-nots. And the have-nots are trying to breach their ambition through violence and, ultimately, worshipping a hollow god, which is money. So therefore it's literally an exploration of the flip side of the American Dream.

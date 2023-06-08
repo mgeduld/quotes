@@ -1,0 +1,5 @@
+---
+author: Daniel Dennett
+tags: [philosophy, reading, essay, hack, argument, logic, writer, rationality]
+---
+When you’re reading or skimming argumentative essays, especially by philosophers, here is a quick trick that may save you much time and effort, especially in this age of simple searching by computer: look for 'surely' in the document, and check each occurrence. Not always, not even most of the time, but often the word 'surely' is as good as a blinking light locating a weak point in the argument. Why? Because it marks the very edge of what the author is actually sure about and hopes readers will also be sure about. (If the author were really sure all the readers would agree, it wouldn’t be worth mentioning.) Being at the edge, the author has had to make a judgment call about whether or not to attempt to demonstrate the point at issue, or provide evidence for it, and—because life is short—has decided in favor of bald assertion, with the presumably well-grounded anticipation of agreement. Just the sort of place to find an ill-examined 'truism' that isn’t true!

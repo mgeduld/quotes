@@ -1,0 +1,7 @@
+---
+author: Peter Brook
+tags: [shakespeare, tempo, rhythm, theatre, opera]
+---
+...what was missing \[from my early attempts to direct Shakspeare] was an overall tempo, an irresistible pulse to lead from one scene to another. I had not yet learned that this was the basis of all Elizabethan theatre, and so began a long period of discovery. The theatre of the day, based on the well-made West End plays, with their two intervals, had long lost all contact with the restless Elizabethan rhythm. Each scene had to be a stepping-stone for the next--there were no curtain breaks and pauses; no new scenery to get accustomed to. And not only did this demand a constant moving forward, it also made contrasts, unexpected changes of rhythm, tones, levels of intensity.
+
+...The big revelation come later when working in opera. In music, I saw that a series of notes is a world of infinitely tiny details which only exist because they are part of a phrase. A phrase in turn is inseparable from a driving forwards. Just as in speech, a phrase is a thought that prepares and leads on to the next one. Only an insufferable bore goes on repeating a phrase long after we have got its meaning. A play of Shakespeare's must be played as one great sinuous phrase, never ending before the every end.

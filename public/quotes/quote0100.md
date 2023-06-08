@@ -1,0 +1,5 @@
+---
+author: Jonathan Franzen
+tags: [fiction, novel, sympathy, morality, desire, reader, writer, writing]
+---
+One of the great perplexities of fiction-- nd the quality that makes the novel the quintessentially liberal art form--is that we experience sympathy so readily for characters we wouldn't like in real life. Becky Sharp may be a soulless social climber, Tom Ripley may be a sociopath, the Jackal may want to assassinate the French President, Mickey Sabbath may be a disgustingly self-involved old goat, and Raskolnikov may want to get away with murder, but I find myself rooting for each of them. This is sometimes, no doubt, a function of the lure of the forbidden, the guilty pleasure of imagining what it would be like to be unburdened by scruples. In every case, though, the alchemical agent by which fiction transmutes my secret envy or my ordinary dislike of 'bad' people into sympathy is desire. Apparently, all a novelist has to do is give a character a powerful desire (to rise socially, to get away with murder) and I, as a reader, become helpless not to make that desire my own.
