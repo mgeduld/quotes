@@ -27,7 +27,7 @@ export const useGetQuote = (pageIndex: number | undefined) => {
     
     (async () => {
       try {
-        const fetchResult = await fetch(`/quotes/quote${zeroPaddedIndex}.md`)
+        const fetchResult = await fetch(`/quotes/quotes/quote${zeroPaddedIndex}.md`)
         const quoteFileContents = await fetchResult.text()
         const fileParts = metadataParser(quoteFileContents)
         setYaml(fileParts.metadata);
