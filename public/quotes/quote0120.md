@@ -1,8 +1,8 @@
 ---
-author: Paul Lockhart
-source: "A Mathematician's Lament"
-tags: [math, proof, mathematician, mathematics, intuition, simplicity]
+author: Kit W
+context: (comment on metafilter.com)
+tags: [dystopia, dystopian, emotion, metaphor, teenager, story, fiction]
 ---
-A proof should be an epiphany from the Gods, not a coded message from the Pentagon. This is what comes from a misplaced sense of logical rigor: _ugliness_. The spirit of the argument has been buried under a heap of confusing formalism.
+..one reason dystopias often work for teens is that teens are often passionate moralists who tend to experience the world in extreme terms even if their lives _aren't_ hellish. The easiest way to write about extreme emotion is to-the word I always end up using is 'metaphorise', which is truly horrible and if anybody knows an alternative please tell me and save me from it-but basically to render in metaphorical colours, not just the specific details of a particular issue but the sheer intensity of the feeling itself. Fiction creates situations where the strong feelings are tied to events dramatic enough to justify them. It's one of the great escapist satisfactions of reading: not escaping into a more comfortable world, but escaping into a world where you have good, unchallengeable reasons for feeling the way you do.
 
-No mathematician works this way. No mathematician has _ever_ worked this way. This is a complete and utter misunderstanding of the mathematical enterprise. Mathematics is not about erecting barriers between ourselves and our intuition, and making simple things complicated. Mathematics is about removing obstacles to our intuition, and keeping simple things simple.
+Not the only escape, of course. Nick Hornby in _Fever Pitch_ talks about how football was a similar escape in his depressed teens: 'What I needed more than anything was a place where unfocused unhappiness could thrive ... I had the blues, and when I watched my team I could unwrap them and let them breathe a little.' Seeking out definite if vicarious reasons for emotions that have complex and sometimes mysterious causes is, I think, quite a common release mechanism.

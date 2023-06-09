@@ -1,8 +1,6 @@
 ---
-author: Paul Lockhart
-source: "A Mathematician's Lament"
-tags: [math, proof, mathematician, mathematics, intuition, simplicity]
+author: Anthony Lane
+source: "The New Yorker"
+tags: [backstory, writing, narrative, story, storytelling, film, movie, cinema, flashback, psychology, character]
 ---
-A proof should be an epiphany from the Gods, not a coded message from the Pentagon. This is what comes from a misplaced sense of logical rigor: _ugliness_. The spirit of the argument has been buried under a heap of confusing formalism.
-
-No mathematician works this way. No mathematician has _ever_ worked this way. This is a complete and utter misunderstanding of the mathematical enterprise. Mathematics is not about erecting barriers between ourselves and our intuition, and making simple things complicated. Mathematics is about removing obstacles to our intuition, and keeping simple things simple.
+Here, in other words, is a long-range backstory—a device that, in the Hollywood of recent times, has grown from an option to a fetish. I lost patience with *Charlie and the Chocolate Factory* once we learned of Willy Wonka’s primal trauma (his father was a dentist, and forbade him candies, so guess how he reversed that deprivation?), and, likewise, with *Batman Begins,* from the moment that mini-Bruce tumbled into a well full of bats. What’s wrong with *Batman Is*? In all narratives, there is a beauty to the merely given, as the narrator does us the honor of trusting that we will take it for granted. Conversely, there is something offensive in the implication that we might resent that pact, and, like plaintive children, demand to have everything explained. Shakespeare could have kicked off with a flashback in which the infant Hamlet is seen wailing with indecision as to which of Gertrude’s breasts he should latch onto, but would it really have helped us to grasp the dithering prince?
