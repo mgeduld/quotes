@@ -2,11 +2,12 @@ import fs from 'fs';
 import metadataParser from 'markdown-yaml-metadata-parser';
 import removeMd from 'remove-markdown';
 
+const numQuotes = fs.readdirSync('public/quotes').length;
+fs.writeFileSync('.env', `VITE_QUOTES=${numQuotes}`);
+
 const tagDirectory = {};
 const authorDirectory = {};
 
-const env = fs.readFileSync('.env', 'utf8');
-const numQuotes = parseInt(env.split('=')[1]);
 for (let i = 0; i < numQuotes; i++) {
   const paddedIndex = (i + 1).toString().padStart(4, '0');
   const url = `/quotes/quote${paddedIndex}.md`

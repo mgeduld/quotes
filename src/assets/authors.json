@@ -590,5 +590,79 @@
       "index": 105,
       "portion": "When you’re stuck, make a list of w..."
     }
+  ],
+  "China Miéville": [
+    {
+      "index": 107,
+      "portion": "I dislike thinking in terms of alle..."
+    }
+  ],
+  "Louis C.K.": [
+    {
+      "index": 108,
+      "portion": "I don’t think you’re really through..."
+    }
+  ],
+  "A comment on Hacker News": [
+    {
+      "index": 109,
+      "portion": "\\[My life hack is] recognizing that..."
+    }
+  ],
+  "Paul Lockhart": [
+    {
+      "index": 110,
+      "portion": "... mathematicians sit around makin..."
+    },
+    {
+      "index": 116,
+      "portion": "A proof should be an epiphany from..."
+    },
+    {
+      "index": 117,
+      "portion": "A proof should be an epiphany from..."
+    },
+    {
+      "index": 118,
+      "portion": "A proof should be an epiphany from..."
+    },
+    {
+      "index": 119,
+      "portion": "A proof should be an epiphany from..."
+    },
+    {
+      "index": 120,
+      "portion": "A proof should be an epiphany from..."
+    }
+  ],
+  "Uta Hagen": [
+    {
+      "index": 111,
+      "portion": " I have to say this, because it has..."
+    }
+  ],
+  "Alan Kay": [
+    {
+      "index": 112,
+      "portion": "You never let \\[the learner] do som..."
+    }
+  ],
+  "George E. P. Box": [
+    {
+      "index": 113,
+      "portion": "Remember that all models are wrong;..."
+    }
+  ],
+  "Learnable Programming": [
+    {
+      "index": 114,
+      "portion": "All state must be eliminated or _..."
+    }
+  ],
+  "Susan Hannigan": [
+    {
+      "index": 115,
+      "portion": "I really love film dweebs. How can..."
+    }
   ]
 }

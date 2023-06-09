@@ -35,6 +35,10 @@
     {
       "index": 90,
       "author": "Orson Welles"
+    },
+    {
+      "index": 111,
+      "author": "Uta Hagen"
     }
   ],
   "directing": [
@@ -81,6 +85,10 @@
     {
       "index": 51,
       "author": "Peter Brook"
+    },
+    {
+      "index": 111,
+      "author": "Uta Hagen"
     }
   ],
   "pain": [
@@ -219,6 +227,10 @@
     {
       "index": 59,
       "author": "Sam Harris"
+    },
+    {
+      "index": 111,
+      "author": "Uta Hagen"
     }
   ],
   "reform": [
@@ -281,6 +293,10 @@
     {
       "index": 100,
       "author": "Jonathan Franzen"
+    },
+    {
+      "index": 107,
+      "author": "China Miéville"
     }
   ],
   "religion": [
@@ -449,6 +465,10 @@
     {
       "index": 106,
       "author": "Anton Chekhov"
+    },
+    {
+      "index": 107,
+      "author": "China Miéville"
     }
   ],
   "writers": [
@@ -567,6 +587,10 @@
     {
       "index": 92,
       "author": "Robert Pirsig"
+    },
+    {
+      "index": 109,
+      "author": "A comment on Hacker News"
     }
   ],
   "occupation": [
@@ -647,6 +671,10 @@
     {
       "index": 73,
       "author": "Tennessee Williams"
+    },
+    {
+      "index": 111,
+      "author": "Uta Hagen"
     }
   ],
   "art": [
@@ -717,6 +745,10 @@
     {
       "index": 89,
       "author": "Robertson Davies"
+    },
+    {
+      "index": 111,
+      "author": "Uta Hagen"
     }
   ],
   "seeing": [
@@ -799,6 +831,10 @@
     {
       "index": 86,
       "author": "Alfred Hitchcock"
+    },
+    {
+      "index": 115,
+      "author": "Susan Hannigan"
     }
   ],
   "movie": [
@@ -813,6 +849,10 @@
     {
       "index": 86,
       "author": "Alfred Hitchcock"
+    },
+    {
+      "index": 115,
+      "author": "Susan Hannigan"
     }
   ],
   "cliché": [
@@ -853,6 +893,10 @@
     {
       "index": 14,
       "author": "Linda Cundy"
+    },
+    {
+      "index": 112,
+      "author": "Alan Kay"
     }
   ],
   "abuse": [
@@ -1043,12 +1087,24 @@
     {
       "index": 42,
       "author": "Daniel H. Cohen"
+    },
+    {
+      "index": 108,
+      "author": "Louis C.K."
+    },
+    {
+      "index": 112,
+      "author": "Alan Kay"
     }
   ],
   "understanding": [
     {
       "index": 23,
       "author": "glenngillen"
+    },
+    {
+      "index": 108,
+      "author": "Louis C.K."
     }
   ],
   "comedy": [
@@ -1161,6 +1217,10 @@
     {
       "index": 85,
       "author": "Stanley Kubrick"
+    },
+    {
+      "index": 107,
+      "author": "China Miéville"
     }
   ],
   "honesty": [
@@ -1537,6 +1597,10 @@
     {
       "index": 50,
       "author": "Stanley Kubrick"
+    },
+    {
+      "index": 108,
+      "author": "Louis C.K."
     }
   ],
   "dishonesty": [
@@ -1959,6 +2023,10 @@
     {
       "index": 70,
       "author": "Goethe"
+    },
+    {
+      "index": 107,
+      "author": "China Miéville"
     }
   ],
   "illustration": [
@@ -2127,6 +2195,10 @@
     {
       "index": 86,
       "author": "Alfred Hitchcock"
+    },
+    {
+      "index": 115,
+      "author": "Susan Hannigan"
     }
   ],
   "3D": [
@@ -2239,6 +2311,10 @@
     {
       "index": 89,
       "author": "Robertson Davies"
+    },
+    {
+      "index": 112,
+      "author": "Alan Kay"
     }
   ],
   "achievement": [
@@ -2269,6 +2345,10 @@
     {
       "index": 91,
       "author": "Paul Graham"
+    },
+    {
+      "index": 112,
+      "author": "Alan Kay"
     }
   ],
   "education": [
@@ -2423,6 +2503,26 @@
     {
       "index": 103,
       "author": "C.A.R. Hoare"
+    },
+    {
+      "index": 116,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 117,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 118,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 119,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 120,
+      "author": "Paul Lockhart"
     }
   ],
   "imagination": [
@@ -2447,6 +2547,256 @@
     {
       "index": 106,
       "author": "Anton Chekhov"
+    }
+  ],
+  "irrationality": [
+    {
+      "index": 109,
+      "author": "A comment on Hacker News"
+    }
+  ],
+  "evolutuion": [
+    {
+      "index": 109,
+      "author": "A comment on Hacker News"
+    }
+  ],
+  "humans": [
+    {
+      "index": 109,
+      "author": "A comment on Hacker News"
+    }
+  ],
+  "reasoning": [
+    {
+      "index": 109,
+      "author": "A comment on Hacker News"
+    }
+  ],
+  "bias": [
+    {
+      "index": 109,
+      "author": "A comment on Hacker News"
+    }
+  ],
+  "pyschology": [
+    {
+      "index": 109,
+      "author": "A comment on Hacker News"
+    }
+  ],
+  "math": [
+    {
+      "index": 110,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 116,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 117,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 118,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 119,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 120,
+      "author": "Paul Lockhart"
+    }
+  ],
+  "mathematician": [
+    {
+      "index": 110,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 116,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 117,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 118,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 119,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 120,
+      "author": "Paul Lockhart"
+    }
+  ],
+  "actor": [
+    {
+      "index": 111,
+      "author": "Uta Hagen"
+    }
+  ],
+  "money": [
+    {
+      "index": 111,
+      "author": "Uta Hagen"
+    }
+  ],
+  "job": [
+    {
+      "index": 111,
+      "author": "Uta Hagen"
+    }
+  ],
+  "teacher": [
+    {
+      "index": 112,
+      "author": "Alan Kay"
+    }
+  ],
+  "student": [
+    {
+      "index": 112,
+      "author": "Alan Kay"
+    }
+  ],
+  "teach": [
+    {
+      "index": 112,
+      "author": "Alan Kay"
+    }
+  ],
+  "model": [
+    {
+      "index": 113,
+      "author": "George E. P. Box"
+    }
+  ],
+  "wrong": [
+    {
+      "index": 113,
+      "author": "George E. P. Box"
+    }
+  ],
+  "useful": [
+    {
+      "index": 113,
+      "author": "George E. P. Box"
+    }
+  ],
+  "state": [
+    {
+      "index": 114,
+      "author": "Learnable Programming"
+    }
+  ],
+  "function": [
+    {
+      "index": 114,
+      "author": "Learnable Programming"
+    }
+  ],
+  "designs": [
+    {
+      "index": 114,
+      "author": "Learnable Programming"
+    }
+  ],
+  "dweeb": [
+    {
+      "index": 115,
+      "author": "Susan Hannigan"
+    }
+  ],
+  "geek": [
+    {
+      "index": 115,
+      "author": "Susan Hannigan"
+    }
+  ],
+  "nerd": [
+    {
+      "index": 115,
+      "author": "Susan Hannigan"
+    }
+  ],
+  "trivia": [
+    {
+      "index": 115,
+      "author": "Susan Hannigan"
+    }
+  ],
+  "proof": [
+    {
+      "index": 116,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 117,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 118,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 119,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 120,
+      "author": "Paul Lockhart"
+    }
+  ],
+  "mathematics": [
+    {
+      "index": 116,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 117,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 118,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 119,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 120,
+      "author": "Paul Lockhart"
+    }
+  ],
+  "intuition": [
+    {
+      "index": 116,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 117,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 118,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 119,
+      "author": "Paul Lockhart"
+    },
+    {
+      "index": 120,
+      "author": "Paul Lockhart"
     }
   ]
 }
