@@ -399,6 +399,10 @@
     {
       "index": 68,
       "portion": "Given my druthers, all I would want..."
+    },
+    {
+      "index": 123,
+      "portion": "I love that formulation of crime-re..."
     }
   ],
   "lesswrong.com": [
@@ -416,6 +420,10 @@
   "C.S. Lewis": [
     {
       "index": 71,
+      "portion": "Even in literature and art, no man..."
+    },
+    {
+      "index": 129,
       "portion": "Even in literature and art, no man..."
     }
   ],
@@ -553,6 +561,10 @@
     {
       "index": 98,
       "portion": "you fit into me\n\nlike a hook into a..."
+    },
+    {
+      "index": 130,
+      "portion": "Cordelia says, 'Think of ten stacks..."
     }
   ],
   "Ludwig Wittgenstein": [
@@ -617,22 +629,6 @@
     {
       "index": 116,
       "portion": "A proof should be an epiphany from..."
-    },
-    {
-      "index": 117,
-      "portion": "A proof should be an epiphany from..."
-    },
-    {
-      "index": 118,
-      "portion": "A proof should be an epiphany from..."
-    },
-    {
-      "index": 119,
-      "portion": "A proof should be an epiphany from..."
-    },
-    {
-      "index": 120,
-      "portion": "A proof should be an epiphany from..."
     }
   ],
   "Uta Hagen": [
@@ -663,6 +659,76 @@
     {
       "index": 115,
       "portion": "I really love film dweebs. How can..."
+    }
+  ],
+  "Jonathan Miller": [
+    {
+      "index": 117,
+      "portion": "My skill as a director ... come\\[s]..."
+    }
+  ],
+  "Anthony Lane": [
+    {
+      "index": 118,
+      "portion": "Here, in other words, is a long-ran..."
+    }
+  ],
+  "Nassim Nicholas Taleb": [
+    {
+      "index": 119,
+      "portion": "People don’t walk around with anti-..."
+    },
+    {
+      "index": 121,
+      "portion": "The problem is architects building..."
+    }
+  ],
+  "Kit W": [
+    {
+      "index": 120,
+      "portion": "...one reason dystopias often work..."
+    }
+  ],
+  "Seymour Papert": [
+    {
+      "index": 122,
+      "portion": "Everything is set up for children t..."
+    }
+  ],
+  "Marlon Brando": [
+    {
+      "index": 124,
+      "portion": "Marlon Brando: I am so ambivalent a..."
+    }
+  ],
+  "Charles Duhigg": [
+    {
+      "index": 125,
+      "portion": "I had got into a bad habit of going..."
+    }
+  ],
+  "John Walker": [
+    {
+      "index": 126,
+      "portion": "You want to capture something of Br..."
+    }
+  ],
+  "Chuck Jones": [
+    {
+      "index": 127,
+      "portion": "Bugs is who we want to be. Daffy is..."
+    }
+  ],
+  "François Rabelais": [
+    {
+      "index": 128,
+      "portion": "I have, answered Gargantua, by a lo..."
+    }
+  ],
+  "Henry Wadsworth Longfellow": [
+    {
+      "index": 131,
+      "portion": "There are moments in life, when the..."
     }
   ]
 }

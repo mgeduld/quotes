@@ -1,0 +1,12 @@
+---
+author: François Rabelais
+source: The Life of Gargantua and of Pantagruel
+context: (c. 1550)
+tags: [bum, wipe]
+---
+I have, answered Gargantua, by a long and curious experience, found out a means to wipe my bum, the most lordly, the most excellent, and the most convenient that ever was seen. What is that? said Grangousier, how is it? I will tell you by-and-by, said Gargantua. Once I did wipe me with a gentle-woman's velvet mask, and found it to be good; for the softness of the silk was very voluptuous and pleasant to my fundament. Another time with one of their hoods, and in like manner that was comfortable. At another time with a lady's neckerchief, and after that I wiped me with some ear-pieces of hers made of crimson satin, but there was such a number of golden spangles in them (turdy round things, a pox take them) that they fetched away all the skin of my tail with a vengeance. Now I wish St. Antony's fire burn the bum-gut of the goldsmith that made them, and of her that wore them! This hurt I cured by wiping myself with a page's cap, garnished with a feather after the Switzers' fashion.
+
+Afterwards, in dunging behind a bush, I found a March-cat, and with it I wiped my breech, but her claws were so sharp that they scratched and exulcerated all my perinee. Of this I recovered the next morning thereafter, by wiping myself with my mother's gloves, of a most excellent perfume and scent of the Arabian Benin. After that I wiped me with sage, with fennel, with anet, with marjoram, with roses, with gourd-leaves, with beets, with colewort, with leaves of the vine-tree, with mallows, wool-blade, which is a tail-scarlet, with lettuce, and with spinach leaves. All this did very great good to my leg. Then with mercury, with parsley, with nettles, with comfrey, but that gave me the bloody flux of Lombardy, which I healed by wiping me with my braguette. Then I wiped my tail in the sheets, in the coverlet, in the curtains, with a cushion, with arras hangings, with a green carpet, with a table-cloth, with a napkin, with a handkerchief, with a combing\=-cloth; in all which I found more pleasure than do the mangy dogs when you rub them. Yea, but, said Grangousier, which torchecul did you find to be the best? I was coming to it, said Gargantua, and by-and-by shall you hear the tu autem, and know the whole mystery and knot of the matter. I wiped myself with hay, with straw, with thatch-rushes, with flax, with wool, with paper, but,
+
+Who his foul tail with paper wipes,
+Shall at his ballocks leave some chips.
