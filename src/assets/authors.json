@@ -403,6 +403,10 @@
     {
       "index": 123,
       "portion": "I love that formulation of crime-re..."
+    },
+    {
+      "index": 135,
+      "portion": "You’re talking about writing a nove..."
     }
   ],
   "lesswrong.com": [
@@ -693,6 +697,10 @@
     {
       "index": 122,
       "portion": "Everything is set up for children t..."
+    },
+    {
+      "index": 140,
+      "portion": "Consider the conditions in under wh..."
     }
   ],
   "Marlon Brando": [
@@ -729,6 +737,54 @@
     {
       "index": 131,
       "portion": "There are moments in life, when the..."
+    }
+  ],
+  "Martin Mull": [
+    {
+      "index": 132,
+      "portion": "\\[A student] ... was constantly pai..."
+    }
+  ],
+  "Robert Sapolsky": [
+    {
+      "index": 133,
+      "portion": "When you're paying too much attenti..."
+    }
+  ],
+  "Paul Harding": [
+    {
+      "index": 134,
+      "portion": "Cheever is a writer who helped teac..."
+    }
+  ],
+  "craftyodysseeys": [
+    {
+      "index": 136,
+      "portion": "Effective use of chapters/sections..."
+    }
+  ],
+  "Noam Chomsky": [
+    {
+      "index": 137,
+      "portion": "The smart way to keep people passiv..."
+    }
+  ],
+  "John Medina": [
+    {
+      "index": 138,
+      "portion": "If you wanted to create an educatio..."
+    }
+  ],
+  "reddit comment": [
+    {
+      "index": 139,
+      "portion": "I suspect that your reasoning is pr..."
+    }
+  ],
+  "Calvin Coolidge": [
+    {
+      "index": 141,
+      "portion": "Nothing in this world can take the..."
     }
   ]
 }

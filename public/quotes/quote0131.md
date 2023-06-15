@@ -8,4 +8,4 @@ That if by chance it be shaken, or into its depths like a pebble
 
 Drops some careless word, it overflows, and its secret,
 
-Spilt on the ground like water, can never be gathered together. 
+Spilt on the ground like water, can never be gathered together.

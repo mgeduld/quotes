@@ -1,0 +1,6 @@
+---
+author: Seymour Papert
+source: Mindstorms
+tags: [conservatism, education, innovation]
+---
+Consider the conditions in under which a new educational idea can be put into practice today and in the near future. Let us suppose that today I have an idea about how children could learn mathematics more effectively and more humanely. And let us suppose that I have been able to convince a million people that the idea is a good one. For many products such a potential market would guarantee success. Yet in the world of education today this would have little clout: A million people across the nation would still mean a minority in every town's school system, so there might be no effective channel for the million voices to be expressed. Thus, not only do good educational ideas sit on the shelves, but the process of invention is itself stymied. This inhibition of invention in turn influences the selection of people who get involved in education. Very few with imagination, creativity, and drive to make great new inventions enter the field. Most of those who do are soon driven out in frustration. Conservatism in the world of education has become a self-perpetuating social phenomenon.
