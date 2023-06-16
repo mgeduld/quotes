@@ -113,6 +113,10 @@
     {
       "index": 126,
       "author": "John Walker"
+    },
+    {
+      "index": 152,
+      "author": "Declan Donnellan"
     }
   ],
   "pain": [
@@ -163,6 +167,10 @@
     {
       "index": 2,
       "author": "Arthur Brooks"
+    },
+    {
+      "index": 146,
+      "author": "David Foster Wallace"
     }
   ],
   "science": [
@@ -187,6 +195,10 @@
     {
       "index": 42,
       "author": "Daniel H. Cohen"
+    },
+    {
+      "index": 145,
+      "author": "Daniel Ellsberg"
     }
   ],
   "life": [
@@ -215,6 +227,10 @@
     {
       "index": 124,
       "author": "Marlon Brando"
+    },
+    {
+      "index": 149,
+      "author": "David Milch"
     }
   ],
   "prayer": [
@@ -275,6 +291,10 @@
     {
       "index": 132,
       "author": "Martin Mull"
+    },
+    {
+      "index": 149,
+      "author": "David Milch"
     }
   ],
   "reform": [
@@ -361,6 +381,10 @@
     {
       "index": 126,
       "author": "John Walker"
+    },
+    {
+      "index": 147,
+      "author": "David Mamet"
     }
   ],
   "religion": [
@@ -553,6 +577,22 @@
     {
       "index": 136,
       "author": "craftyodysseeys"
+    },
+    {
+      "index": 143,
+      "author": "Nick Cave and Austin Kleon"
+    },
+    {
+      "index": 148,
+      "author": "David Mamet"
+    },
+    {
+      "index": 149,
+      "author": "David Milch"
+    },
+    {
+      "index": 150,
+      "author": "David Milch"
     }
   ],
   "writers": [
@@ -585,6 +625,10 @@
     {
       "index": 99,
       "author": "Ludwig Wittgenstein"
+    },
+    {
+      "index": 144,
+      "author": "Daniel Dennett"
     }
   ],
   "reading": [
@@ -625,6 +669,10 @@
     {
       "index": 42,
       "author": "Daniel H. Cohen"
+    },
+    {
+      "index": 144,
+      "author": "Daniel Dennett"
     }
   ],
   "logic": [
@@ -689,6 +737,10 @@
     {
       "index": 121,
       "author": "Nassim Nicholas Taleb"
+    },
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
     }
   ],
   "passion": [
@@ -783,6 +835,10 @@
     {
       "index": 135,
       "author": "China Mieville"
+    },
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
     }
   ],
   "art": [
@@ -885,6 +941,18 @@
     {
       "index": 136,
       "author": "craftyodysseeys"
+    },
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
+    },
+    {
+      "index": 143,
+      "author": "Nick Cave and Austin Kleon"
+    },
+    {
+      "index": 148,
+      "author": "David Mamet"
     }
   ],
   "seeing": [
@@ -1153,6 +1221,10 @@
     {
       "index": 139,
       "author": "reddit comment"
+    },
+    {
+      "index": 145,
+      "author": "Daniel Ellsberg"
     }
   ],
   "attention": [
@@ -1183,6 +1255,10 @@
     {
       "index": 51,
       "author": "Peter Brook"
+    },
+    {
+      "index": 152,
+      "author": "Declan Donnellan"
     }
   ],
   "contradiction": [
@@ -1215,6 +1291,14 @@
     {
       "index": 29,
       "author": "George Saunders"
+    },
+    {
+      "index": 143,
+      "author": "Nick Cave and Austin Kleon"
+    },
+    {
+      "index": 148,
+      "author": "David Mamet"
     }
   ],
   "self": [
@@ -1249,6 +1333,10 @@
     {
       "index": 127,
       "author": "Chuck Jones"
+    },
+    {
+      "index": 149,
+      "author": "David Milch"
     }
   ],
   "progress": [
@@ -1425,6 +1513,14 @@
     {
       "index": 136,
       "author": "craftyodysseeys"
+    },
+    {
+      "index": 147,
+      "author": "David Mamet"
+    },
+    {
+      "index": 150,
+      "author": "David Milch"
     }
   ],
   "honesty": [
@@ -1443,6 +1539,10 @@
     {
       "index": 50,
       "author": "Stanley Kubrick"
+    },
+    {
+      "index": 146,
+      "author": "David Foster Wallace"
     }
   ],
   "horry": [
@@ -1683,6 +1783,10 @@
     {
       "index": 137,
       "author": "Noam Chomsky"
+    },
+    {
+      "index": 144,
+      "author": "Daniel Dennett"
     }
   ],
   "actors": [
@@ -1723,12 +1827,20 @@
     {
       "index": 75,
       "author": "Russell Edson"
+    },
+    {
+      "index": 143,
+      "author": "Nick Cave and Austin Kleon"
     }
   ],
   "unconscious": [
     {
       "index": 44,
       "author": "William Esper and Marcus Geduld"
+    },
+    {
+      "index": 143,
+      "author": "Nick Cave and Austin Kleon"
     }
   ],
   "control": [
@@ -2061,6 +2173,10 @@
     {
       "index": 60,
       "author": "David Foster Wallace"
+    },
+    {
+      "index": 146,
+      "author": "David Foster Wallace"
     }
   ],
   "sincerity": [
@@ -2076,6 +2192,10 @@
   "postmodernism": [
     {
       "index": 60,
+      "author": "David Foster Wallace"
+    },
+    {
+      "index": 146,
       "author": "David Foster Wallace"
     }
   ],
@@ -2127,6 +2247,14 @@
     {
       "index": 136,
       "author": "craftyodysseeys"
+    },
+    {
+      "index": 147,
+      "author": "David Mamet"
+    },
+    {
+      "index": 150,
+      "author": "David Milch"
     }
   ],
   "audience": [
@@ -2149,6 +2277,10 @@
     {
       "index": 123,
       "author": "China Mieville"
+    },
+    {
+      "index": 147,
+      "author": "David Mamet"
     }
   ],
   "mislead": [
@@ -2183,6 +2315,10 @@
     {
       "index": 119,
       "author": "Nassim Nicholas Taleb"
+    },
+    {
+      "index": 145,
+      "author": "Daniel Ellsberg"
     }
   ],
   "entertainment": [
@@ -2245,6 +2381,10 @@
     {
       "index": 123,
       "author": "China Mieville"
+    },
+    {
+      "index": 143,
+      "author": "Nick Cave and Austin Kleon"
     }
   ],
   "necessity": [
@@ -2437,6 +2577,10 @@
     {
       "index": 97,
       "author": "Raymond Chandler"
+    },
+    {
+      "index": 148,
+      "author": "David Mamet"
     }
   ],
   "subtext": [
@@ -2687,6 +2831,10 @@
     {
       "index": 141,
       "author": "Calvin Coolidge"
+    },
+    {
+      "index": 148,
+      "author": "David Mamet"
     }
   ],
   "folly": [
@@ -2825,6 +2973,10 @@
     {
       "index": 102,
       "author": "Penn Jillette"
+    },
+    {
+      "index": 151,
+      "author": "David Milch"
     }
   ],
   "software": [
@@ -2847,6 +2999,14 @@
     {
       "index": 116,
       "author": "Paul Lockhart"
+    },
+    {
+      "index": 146,
+      "author": "David Foster Wallace"
+    },
+    {
+      "index": 147,
+      "author": "David Mamet"
     }
   ],
   "imagination": [
@@ -2947,12 +3107,20 @@
     {
       "index": 111,
       "author": "Uta Hagen"
+    },
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
     }
   ],
   "job": [
     {
       "index": 111,
       "author": "Uta Hagen"
+    },
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
     }
   ],
   "teacher": [
@@ -3483,6 +3651,10 @@
     {
       "index": 134,
       "author": "Paul Harding"
+    },
+    {
+      "index": 146,
+      "author": "David Foster Wallace"
     }
   ],
   "human": [
@@ -3607,6 +3779,244 @@
     {
       "index": 141,
       "author": "Calvin Coolidge"
+    }
+  ],
+  "copyright": [
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
+    }
+  ],
+  "download": [
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
+    }
+  ],
+  "free": [
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
+    }
+  ],
+  "patronage": [
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
+    }
+  ],
+  "commerse": [
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
+    }
+  ],
+  "capitalism": [
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
+    }
+  ],
+  "royalties": [
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
+    }
+  ],
+  "expenses": [
+    {
+      "index": 142,
+      "author": "Francis Ford Coppola"
+    }
+  ],
+  "song": [
+    {
+      "index": 143,
+      "author": "Nick Cave and Austin Kleon"
+    }
+  ],
+  "songwriting": [
+    {
+      "index": 143,
+      "author": "Nick Cave and Austin Kleon"
+    }
+  ],
+  "inspiration": [
+    {
+      "index": 143,
+      "author": "Nick Cave and Austin Kleon"
+    }
+  ],
+  "service": [
+    {
+      "index": 143,
+      "author": "Nick Cave and Austin Kleon"
+    }
+  ],
+  "criticism": [
+    {
+      "index": 144,
+      "author": "Daniel Dennett"
+    }
+  ],
+  "discussion": [
+    {
+      "index": 144,
+      "author": "Daniel Dennett"
+    }
+  ],
+  "disagreement": [
+    {
+      "index": 144,
+      "author": "Daniel Dennett"
+    }
+  ],
+  "advice": [
+    {
+      "index": 145,
+      "author": "Daniel Ellsberg"
+    }
+  ],
+  "sercret": [
+    {
+      "index": 145,
+      "author": "Daniel Ellsberg"
+    }
+  ],
+  "government": [
+    {
+      "index": 145,
+      "author": "Daniel Ellsberg"
+    }
+  ],
+  "clearance": [
+    {
+      "index": 145,
+      "author": "Daniel Ellsberg"
+    }
+  ],
+  "archness": [
+    {
+      "index": 146,
+      "author": "David Foster Wallace"
+    }
+  ],
+  "value": [
+    {
+      "index": 146,
+      "author": "David Foster Wallace"
+    }
+  ],
+  "lying": [
+    {
+      "index": 146,
+      "author": "David Foster Wallace"
+    }
+  ],
+  "generation": [
+    {
+      "index": 146,
+      "author": "David Foster Wallace"
+    }
+  ],
+  "misdirection": [
+    {
+      "index": 147,
+      "author": "David Mamet"
+    }
+  ],
+  "gossip": [
+    {
+      "index": 148,
+      "author": "David Mamet"
+    }
+  ],
+  "wound": [
+    {
+      "index": 149,
+      "author": "David Milch"
+    }
+  ],
+  "defense": [
+    {
+      "index": 149,
+      "author": "David Milch"
+    }
+  ],
+  "defense-mechanism": [
+    {
+      "index": 149,
+      "author": "David Milch"
+    }
+  ],
+  "separateness": [
+    {
+      "index": 149,
+      "author": "David Milch"
+    }
+  ],
+  "saint-paul": [
+    {
+      "index": 149,
+      "author": "David Milch"
+    }
+  ],
+  "corinthians": [
+    {
+      "index": 149,
+      "author": "David Milch"
+    }
+  ],
+  "crowd": [
+    {
+      "index": 149,
+      "author": "David Milch"
+    }
+  ],
+  "time": [
+    {
+      "index": 150,
+      "author": "David Milch"
+    },
+    {
+      "index": 152,
+      "author": "Declan Donnellan"
+    }
+  ],
+  "secret": [
+    {
+      "index": 150,
+      "author": "David Milch"
+    }
+  ],
+  "subject": [
+    {
+      "index": 150,
+      "author": "David Milch"
+    }
+  ],
+  "resentment": [
+    {
+      "index": 151,
+      "author": "David Milch"
+    }
+  ],
+  "poison": [
+    {
+      "index": 151,
+      "author": "David Milch"
+    }
+  ],
+  "classics": [
+    {
+      "index": 152,
+      "author": "Declan Donnellan"
+    }
+  ],
+  "distance": [
+    {
+      "index": 152,
+      "author": "Declan Donnellan"
     }
   ]
 }

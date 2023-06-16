@@ -39,6 +39,10 @@
     {
       "index": 7,
       "portion": "When you’re reading or skimming arg..."
+    },
+    {
+      "index": 144,
+      "portion": "How to compose a successful critica..."
     }
   ],
   "Charles Darwin": [
@@ -359,6 +363,10 @@
     {
       "index": 60,
       "portion": "The next real literary 'rebels' in..."
+    },
+    {
+      "index": 146,
+      "portion": "It seems to me that the intellectua..."
     }
   ],
   "Robert McKee": [
@@ -377,6 +385,14 @@
     {
       "index": 63,
       "portion": "You have to be simple in your story..."
+    },
+    {
+      "index": 147,
+      "portion": "You have to be simple in your story..."
+    },
+    {
+      "index": 148,
+      "portion": "Some people can write dialogue and..."
     }
   ],
   "James Gunn": [
@@ -599,6 +615,18 @@
     {
       "index": 104,
       "portion": "The ego is the enemy of the imagina..."
+    },
+    {
+      "index": 149,
+      "portion": "Any time you want to take the easy..."
+    },
+    {
+      "index": 150,
+      "portion": "The secret subject of any story wor..."
+    },
+    {
+      "index": 151,
+      "portion": "we can learn to live a life organiz..."
     }
   ],
   "Pixar": [
@@ -785,6 +813,30 @@
     {
       "index": 141,
       "portion": "Nothing in this world can take the..."
+    }
+  ],
+  "Francis Ford Coppola": [
+    {
+      "index": 142,
+      "portion": "We have to be very clever about tho..."
+    }
+  ],
+  "Nick Cave and Austin Kleon": [
+    {
+      "index": 143,
+      "portion": "My advice to you is to change your..."
+    }
+  ],
+  "Daniel Ellsberg": [
+    {
+      "index": 145,
+      "portion": "Advice to Henry Kissinger:\n\nHenry,..."
+    }
+  ],
+  "Declan Donnellan": [
+    {
+      "index": 152,
+      "portion": "Sometimes you have to go away to se..."
     }
   ]
 }

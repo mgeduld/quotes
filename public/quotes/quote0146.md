@@ -1,0 +1,5 @@
+---
+author: David Foster Wallace
+tags: [simplicity, complexity, archness, irony, postmodernism, value, honesty, lying, ethics, generation]
+---
+It seems to me that the intellectualization and aestheticizing of principles and values in this country is one of the things that’s gutted our generation. All the things that my parents said to me, like 'It’s really important not to lie.' OK, check, got it. I nod at that but I really don’t feel it. Until I get to be about 30 and I realize that if I lie to you, I also can’t trust you. I feel that I’m in pain, I’m nervous, I’m lonely and I can’t figure out why. Then I realize,'Oh, perhaps the way to deal with this is really not to lie.' The idea that something so simple and, really, so aesthetically uninteresting—which for me meant you pass over it for the interesting, complex stuff—can actually be nourishing in a way that arch, meta, ironic, pomo stuff can’t, that seems to me to be important. That seems to me like something our generation needs to feel.
